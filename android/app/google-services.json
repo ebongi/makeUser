@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831826240209",
+    "project_id": "nbbank-f77bb",
+    "storage_bucket": "nbbank-f77bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831826240209:android:10ef03f318ab67b4105bf0",
+        "android_client_info": {
+          "package_name": "com.nbbankk.adewebdevvv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uV39MXbtxz7EGx-jaqQzY0QeQfc_XTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

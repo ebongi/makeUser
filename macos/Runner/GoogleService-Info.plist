@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>886127583198-9j8tmg3d0fe7kgskc7rp9c1rqke8ilmk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.886127583198-9j8tmg3d0fe7kgskc7rp9c1rqke8ilmk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHc9d-wjDUTPR_y81SHVIi2dMYXTQ-BAI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>886127583198</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nbbankk.adewebdevvv</string>
+	<key>PROJECT_ID</key>
+	<string>alexrra-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alexrra-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:886127583198:ios:01fd45f2d4b12ebc17c74f</string>
+</dict>
+</plist>
